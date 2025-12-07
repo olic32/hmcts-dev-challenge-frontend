@@ -1,3 +1,9 @@
+# Frontend for the HMCTS dev challenge
+
+I didn't use the https://github.com/hmcts/hmcts-dev-test-frontend framework for the frontend as there were a number of packages I was unfamiliar with - and if I am required to extend the front-end code I would like to be more familiar with the stack. Instead, I created a new React app and only used elements necessary for the technical specifications.
+
+As per the below info, left for convenience, ensure the backend is running, and run as below.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
